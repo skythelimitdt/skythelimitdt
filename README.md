@@ -1,11 +1,24 @@
 # Eylem Yildirim
-**`Marketing Manager / Data Scientist / Gym Rat / Mother`**
+**`Growth Marketing Leader | Analytics & Experimentation | E-commerce & Subscription Systems`**
 
-I’m a marketing professional with a passion for turning numbers into narratives and optimizing everything—whether it's ad performance, machine learning models, or even my kids’ Uno strategy. With over 15 years in e-commerce, performance marketing, and ad-tech, I thrive on uncovering insights that drive real business impact. I specialize in SQL, Python, big data, and machine learning, helping businesses maximize ROI, improve KPIs, and optimize LTV.
+I’m a growth and analytics leader with 15+ years of experience scaling e-commerce and subscription businesses through disciplined experimentation, performance marketing, and data-driven decision-making. I’ve owned full-funnel growth across acquisition, retention, and monetization, managing large paid media portfolios and optimizing toward unit economics such as CAC, LTV, ROAS, and payback.
 
-When I’m not diving into datasets or fine-tuning predictive models, you’ll find me staying active—whether it’s working out, sprinting around the park in epic races with my kids, or outthinking them in a heated Uno showdown (spoiler: they win more than I’d like to admit). I also love reading and constantly exploring ways to refine strategies, not just in business but in life. My goal? To keep pushing boundaries, solving complex problems, and making data-driven decisions that matter.
+My technical work focuses on analytics and experimentation: SQL-based analysis, Python for data modeling and automation, cohort and retention analysis, attribution and incrementality testing, and building insights that directly inform growth strategy and capital allocation.
 
- 
+Outside of work, I train consistently and keep life competitive—often losing strategic battles of Uno to my kids, which remains statistically humbling.
+
+
+## 💡 How I Work
+**`→ Clarity over complexity`**  
+I favor simple, explainable analyses and models that stakeholders can act on. If an insight can’t drive a decision, it doesn’t ship.  
+**`→ Evidence before opinion`**  
+I test assumptions through data, experimentation, and controlled comparisons especially when intuition is strong.   
+**`→ Outcome-oriented analysis`**  
+Every analysis ties back to a business lever: acquisition efficiency, retention lift, revenue impact, or risk reduction.     
+**`→ Continuous iteration`**  
+I treat systems, models, and strategies as living artifacts—measured, refined, and improved over time.   
+
+
 
   <h2>🛠️ My Favorite Tools</h2>
 
@@ -228,14 +241,3 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 </details>
 
 ---
-
-## 💡 My Approach to Work and Life
-I don't just analyze data; I apply lessons learned from both experience and wisdom to create impactful, thoughtful results. Here's how I live by The Four Agreements:  <br>
-**`→ 1. Be Impeccable with Your Word`**  
-I lead with clarity and transparency, whether it’s crafting SQL queries, explaining machine learning models, or simply communicating with teammates. My words are tools for inspiring trust and delivering value!    
-**`→ 2. Don’t Take Anything Personally`**  
-In data, there’s no room for ego. Whether I’m troubleshooting a model’s performance or handling constructive feedback, I stay objective and focused. The data speaks for itself, and I listen to it with an open mind.    
-**`→ 3. Don’t Make Assumptions`**  
-I know the power of asking the right questions. Rather than assume, I dig deep into data, ask stakeholders for clarity, and ensure that I understand all the facts before jumping to conclusions. That’s how I uncover the true story behind the numbers.     
-**`→ 4. Always Do Your Best`**  
-Whether it’s optimizing a machine learning model or refining a marketing campaign, I give my all. I strive for continuous improvement, learning from each experience to become better at what I do and deliver results that matter.   
