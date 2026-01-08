@@ -8,7 +8,7 @@ My technical work focuses on analytics and experimentation: SQL-based analysis, 
 Outside of work, I train consistently and keep life competitive—often losing strategic battles of Uno to my kids, which remains statistically humbling.
 
 
-## 💡 How I Work
+## How I Work
 **`→ Clarity over complexity`**  
 I favor simple, explainable analyses and models that stakeholders can act on. If an insight can’t drive a decision, it doesn’t ship.  
 **`→ Evidence before opinion`**  
