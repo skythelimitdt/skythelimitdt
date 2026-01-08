@@ -240,4 +240,3 @@ I treat systems, models, and strategies as living artifacts—measured, refined,
 - **Data Visualization & Insights:** Explored seasonal variations on Mars, identified the coldest/warmest months, examined atmospheric pressure trends, and estimated the length of a Martian year in Earth days.
 </details>
 
----
