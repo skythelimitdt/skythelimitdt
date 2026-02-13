@@ -10,13 +10,13 @@ Outside of work, I train consistently and keep life competitive—often losing s
 
 ## How I Work
 **`→ Clarity over complexity`**  
-I favor simple, explainable analyses and models that stakeholders can act on. If an insight can’t drive a decision, it doesn’t ship.  
+I favor simple, explainable analyses and models that stakeholders can act on. If an insight can’t drive a decision, it doesn’t ship.  <b>
 **`→ Evidence before opinion`**  
-I test assumptions through data, experimentation, and controlled comparisons especially when intuition is strong.   
+I test assumptions through data, experimentation, and controlled comparisons especially when intuition is strong.   <b>
 **`→ Outcome-oriented analysis`**  
-Every analysis ties back to a business lever: acquisition efficiency, retention lift, revenue impact, or risk reduction.     
+Every analysis ties back to a business lever: acquisition efficiency, retention lift, revenue impact, or risk reduction.  <b>   
 **`→ Continuous iteration`**  
-I treat systems, models, and strategies as living artifacts—measured, refined, and improved over time.   
+I treat systems, models, and strategies as living artifacts—measured, refined, and improved over time.   <b>
 
 
 
